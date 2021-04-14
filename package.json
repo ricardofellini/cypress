@@ -1,0 +1,22 @@
+{
+  "name": "cursocypress",
+  "version": "1.0.0",
+  "description": "CursoCypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cy": "cypress open"
+    
+  },
+  "keywords": [
+    "cypress",
+    "test",
+    "automation",
+    "e2e"
+  ],
+  "author": "Ricardo Fellini",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^7.1.0"
+  }
+}
